@@ -1,0 +1,2 @@
+Proyecto en Python en el cual se entrenan varios modelos de regresión para predecir el precio de venta de vehículos utilizando la raíz del error cuadrado medio como métrica para decidir el mejor modelo. Para este proyecto se utilizaron regresión lineal, árboles de decisión, bosques aleatorios
+y árboles potenciados por gradiente (gradient boosted trees en LightGBM). El último tipo de modelo presentó el mejor desempeño y se recomendó como el que debe implementarse en la empresa.
